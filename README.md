@@ -4,7 +4,7 @@ Bem-vindo ao repositório dedicado ao **Advanced Onion Router (AdvTor)**! Este p
 
 ## 🚀 Sobre o AdvTor
 
-![png-transparent-purple-onion-tor-browser-web-browser-onion-onion-routing-onion-food-leaf-plant-stem](https://github.com/user-attachments/assets/e62e731e-4d4e-47ca-a4e2-216efbc58259)
+![Tor-logo-2011-flat svg](https://github.com/user-attachments/assets/ce680b71-d6d0-4691-a952-754316a35196)
 
 ### 🌟 O que é?
 O **AdvTor** é um cliente avançado para a rede Tor, projetado para ser uma alternativa mais poderosa e eficiente ao pacote padrão Tor+Vidalia+Privoxy. Ele oferece uma série de melhorias e funcionalidades que tornam a navegação e o uso da rede Tor muito mais flexíveis e seguras.
